@@ -20,4 +20,4 @@ if N.isdigit():
         result = fibonacci(N)
         print("Deret fibonacci", result)
 else: 
-    print("Tolong masukkan angka bulat.")
+    print("Masukin angka bulat yaa, jangan yang lain.")
